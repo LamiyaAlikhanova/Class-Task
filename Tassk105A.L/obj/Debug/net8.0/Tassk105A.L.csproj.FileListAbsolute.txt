@@ -1,0 +1,14 @@
+C:\Users\kh53\source\repos\Tassk105A.L\bin\Debug\net8.0\Tassk105A.L.exe
+C:\Users\kh53\source\repos\Tassk105A.L\bin\Debug\net8.0\Tassk105A.L.deps.json
+C:\Users\kh53\source\repos\Tassk105A.L\bin\Debug\net8.0\Tassk105A.L.runtimeconfig.json
+C:\Users\kh53\source\repos\Tassk105A.L\bin\Debug\net8.0\Tassk105A.L.dll
+C:\Users\kh53\source\repos\Tassk105A.L\bin\Debug\net8.0\Tassk105A.L.pdb
+C:\Users\kh53\source\repos\Tassk105A.L\obj\Debug\net8.0\Tassk105A.L.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kh53\source\repos\Tassk105A.L\obj\Debug\net8.0\Tassk105A.L.AssemblyInfoInputs.cache
+C:\Users\kh53\source\repos\Tassk105A.L\obj\Debug\net8.0\Tassk105A.L.AssemblyInfo.cs
+C:\Users\kh53\source\repos\Tassk105A.L\obj\Debug\net8.0\Tassk105A.L.csproj.CoreCompileInputs.cache
+C:\Users\kh53\source\repos\Tassk105A.L\obj\Debug\net8.0\Tassk105A.L.dll
+C:\Users\kh53\source\repos\Tassk105A.L\obj\Debug\net8.0\refint\Tassk105A.L.dll
+C:\Users\kh53\source\repos\Tassk105A.L\obj\Debug\net8.0\Tassk105A.L.pdb
+C:\Users\kh53\source\repos\Tassk105A.L\obj\Debug\net8.0\Tassk105A.L.genruntimeconfig.cache
+C:\Users\kh53\source\repos\Tassk105A.L\obj\Debug\net8.0\ref\Tassk105A.L.dll
